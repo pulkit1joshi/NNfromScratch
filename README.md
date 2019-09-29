@@ -24,5 +24,9 @@ The whole concept can be divided as:
 
 ### to be continued
 
-### Layer
+### Accuracy 
+*Blue - Training accuracy
+*Orange - Validation accuracy
+
+![Accuracy Graph](https://github.com/tobehonest/NNfromScratch/blob/master/Accuracy%20graph.png)
 
