@@ -30,3 +30,9 @@ The whole concept can be divided as:
  
 ![Accuracy Graph](https://github.com/tobehonest/NNfromScratch/blob/master/Accuracy%20graph.png)
 
+### TO DO LIST
+1. Add better weights initializations
+2. Regularisation
+3. Image scrapper for extracting numbers from google
+
+
